@@ -13,6 +13,8 @@ DigitalPath Innovations conducted an **A/B test** over two weeks to evaluate use
 📌 **Visualization:**  
 ![Dashboard Summary Screenshot](https://github.com/itsShinobi/DigitalPath_Innovations/blob/main/Screenshot%202025-03-03%20022425.png)  
 
+👉 [DigitalPath Innovations - A/B Test Dashboard](https://public.tableau.com/views/DigitalInnovation_2/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
+
 ---
 
 ## 📊 Key Insights  
@@ -75,6 +77,6 @@ DigitalPath Innovations conducted an **A/B test** over two weeks to evaluate use
 
 ---
 
-## 📌 How to Access  
-**View the Interactive Tableau Dashboard**:  
+### 📞 Connect with Me  
    👉 [DigitalPath Innovations - A/B Test Dashboard](https://public.tableau.com/views/DigitalInnovation_2/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
+   🔗 [My LinkedIn Profile](https://www.linkedin.com/in/tobiosinubi/)  
